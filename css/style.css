@@ -117,15 +117,15 @@ p{
 }
 
 .home .home-banner-1{
-    background-image: url(../Images/banner/women3.jpg);
+    background-image: url(./Images/banner/women3.jpg);
 }
 
 .home .home-banner-2{
-    background-image: url(../Images/banner/men2.jpg);
+    background-image: url(./Images/banner/men2.jpg);
 }
 
 .home .home-banner-3{
-    background-image: url(../Images/banner/kids3.jpg);
+    background-image: url(./Images/banner/kids3.jpg);
 }
 
 .home .home-banner .home-banner-text{
