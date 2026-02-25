@@ -21,7 +21,7 @@
     let secItem = document.querySelector("#sec");
 
     let countdown = () =>{
-        let futureDate = new Date("15 Augest 2024");
+        let futureDate = new Date("15 Augest 2027");
         let currentDate = new Date();
         let myDate = futureDate - currentDate;
 
